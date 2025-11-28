@@ -1,7 +1,7 @@
 # Detection of Fake Banknotes using SVM
 
 Overview
-This repository contains an end-to-end Jupyter Notebook implementation that reproduces and extends the experiments from the research paper "Machine Learning Based Approach for Detection of Fake Banknotes Using Support Vector Machine." The notebook performs EDA, data preprocessing, implements SVM classifiers (linear, polynomial), tunes hyperparameters, evaluates model performance, and compares results with the referenced paper.
+- This repository contains an end-to-end Jupyter Notebook implementation that reproduces and extends the experiments from the research paper "Machine Learning Based Approach for Detection of Fake Banknotes Using Support Vector Machine." The notebook performs EDA, data preprocessing, implements SVM classifiers (linear, polynomial), tunes hyperparameters, evaluates model performance, and compares results with the referenced paper.
 
 Repository contents
 - individual project.ipynb — main Jupyter Notebook that contains:
